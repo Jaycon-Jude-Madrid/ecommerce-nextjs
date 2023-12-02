@@ -22,8 +22,9 @@ const getProduct = async (slug: string) => {
 	return data;
 };
 
+export const dynamic = "force-dynamic";
+
 const page = async ({ params }: { params: { slug: string } }) => {
-	console.log(params.slug);
 	const data: fullProduct = await getProduct(params.slug);
 
 	return (
