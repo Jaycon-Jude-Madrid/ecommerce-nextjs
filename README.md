@@ -1,9 +1,9 @@
-E-commerce app.
+E-commerce app.  ( <br> )
 Technologies used:
 
-NextJs
-Typescript
-Sanity.io (Headless CMS)
+NextJs  ( <br> )
+Typescript  ( <br> )
+Sanity.io (Headless CMS)  ( <br> )
 
 
 
